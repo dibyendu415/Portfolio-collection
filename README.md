@@ -1,4 +1,4 @@
-# Portfolio- A collection of Portfolio
+# A collection of Portfolio
 
 1. [http://codebyte.re/](http://codebyte.re/)
 
